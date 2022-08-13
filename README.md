@@ -12,3 +12,22 @@ Coming Soon:
 Slash Command Handler
 Prefix Command Handler
 ```
+Requirements:
+> Latest Version of DiscordJS
+
+Preview Codes:
+```js
+const { SlashCommand } = require('discord-commands-params');
+
+module.exports = new SlashCommand({
+  name: 'ping',
+  description: 'Ping Pong!',
+  permissions: {
+    member: ['SendMessages'],
+    bot: ['SendMessages']
+  },
+  run: ({ client, interaction, options }) => {
+    interaction.reply('Pong!')
+  },
+});
+```
