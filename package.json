@@ -27,11 +27,11 @@
     "typescript": "^4.7.4"
   },
   "bugs": {
-    "url": "https://github.com/Default27/discord-commands/issues"
+    "url": "https://github.com/Default27/discord-cmds/issues"
   },
   "repository": {
-    "url": "git+https://github.com/Default27/discord-commands.git",
+    "url": "git+https://github.com/Default27/discord-cmds.git",
     "type": "git"
   },
-  "homepage": "https://github.com/Default27/discord-commands#readme"
+  "homepage": "https://github.com/Default27/discord-cmds#readme"
 }
