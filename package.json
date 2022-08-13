@@ -1,6 +1,6 @@
 {
   "name": "discord-commands-params",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin for discord.js to make user easy-to-make commands.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
