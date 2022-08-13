@@ -8,5 +8,7 @@ Slash Command Params
 Prefix Command Params
 ```
 Coming Soon:
-> Slash Command Handler\n
-> Prefix Command Handler
+```
+Slash Command Handler\n
+Prefix Command Handler
+```
