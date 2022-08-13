@@ -8,7 +8,8 @@
     "test": "npm run clean && npm run build && npm run lint",
     "build": "tsc",
     "clean": "rimraf dist/",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "prepare" : "npm run build"
   },
   "keywords": [
     "discordjs",
